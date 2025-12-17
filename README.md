@@ -70,7 +70,7 @@ When you choose "Save to File", the system generates `students.csv` in the follo
 ```csv
 Name,ID,GPA,Subjects
 Ahmed,2023001,3.8,Math : 3 | Physics : 4 |
-Sarah,2023002,3.9,CS : 3 | Logic : 2 |
+Najwa,2023002,3.9,CS : 3 | Logic : 2 |
 
 ```
 
