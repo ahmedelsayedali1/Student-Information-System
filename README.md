@@ -51,7 +51,7 @@ The project is built around the `student` class which encapsulates:
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/Student-Management-System.git]
+git clone [https://github.com/ahmedelsayedali1/Student-Information-System.git]
 
 ```
 
