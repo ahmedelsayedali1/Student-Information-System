@@ -56,17 +56,9 @@ git clone [https://github.com/ahmedelsayedali1/Student-Information-System.git]
 ```
 
 
-2. **Compile the code:**
+2. **Run the application:**
 ```bash
-g++ Student_System.cpp -o app
-
-```
-
-
-3. **Run the application:**
-```bash
-./app
-
+main.cpp
 ```
 
 
